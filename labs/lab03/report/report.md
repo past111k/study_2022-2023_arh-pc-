@@ -114,10 +114,9 @@ header-includes:
 
 ![Рис4](image/3.4.png){ #fig:004 width=90% }
 
-5.	Загрузим файлы на github.
+5.	Загрузим файлы на github. (рис. [-@fig:005])
 
-
-
+![Рис5](image/3.5.png){ #fig:005 width=90% }
 
 # Выводы
 
