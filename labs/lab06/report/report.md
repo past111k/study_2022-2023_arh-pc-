@@ -128,7 +128,7 @@ header-includes:
 
 ![Запуск отредактированного файла variant.asm](image/6.13.png){ #fig:013 width=90% }
 
-#Ответы на вопросы
+# Ответы на вопросы
 
 1.	mov eax, rem all sprint
 
@@ -146,7 +146,7 @@ header-includes:
 
 7.	mov eax,rem call sprint mov eax,edx call iprintLF
 
-#Самостоятльная работа
+# Самостоятльная работа
 
 1.	Вносим измненения в файл variant.asm чтобы он вычислил x1 и x2 в функции (12x + 3)5
 
